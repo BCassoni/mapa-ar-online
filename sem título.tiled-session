@@ -1,0 +1,214 @@
+{
+    "activeFile": "maps/ar-office.tmj",
+    "expandedProjectPaths": [
+        "maps",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj": {
+            "expandedGroupLayers": [
+                70,
+                52,
+                69,
+                54,
+                51
+            ],
+            "scale": 1,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 312,
+                "y": 1485
+            }
+        },
+        "maps/ar-office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "maps/ar-office.tmj#ar_online_balcao_atendimento": {
+            "scaleInEditor": 0.33
+        },
+        "maps/ar-office.tmj#cadeiras": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/ar-office.tmj#mesas": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj": {
+            "scale": 1.0697395833333332,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 480.0233701738157,
+                "y": 307.5514874141877
+            }
+        },
+        "maps/custom_office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj": {
+            "scale": 0.8542338709677418,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.56643851781928,
+                "y": 496.351191881048
+            }
+        },
+        "maps/custom_office_filled.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/custom_office_filled.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "maps/logo-ar.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj": {
+            "expandedGroupLayers": [
+                51,
+                55,
+                52,
+                54
+            ],
+            "scale": 0.8595238095238095,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.20498614958444,
+                "y": 326.92520775623274
+            }
+        },
+        "maps/office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/bruno/Documents/Mapa AR Online/maps/tilesets",
+    "last.imagePath": "C:/Users/bruno/Documents/Mapa AR Online/maps/tilesets",
+    "openFiles": [
+        "maps/ar-office.tmj"
+    ],
+    "project": "sem título.tiled-project",
+    "recentFiles": [
+        "maps/ar-office.tmj",
+        "maps/custom_office.tmj",
+        "maps/custom_office_filled.tmj",
+        "maps/office.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Todos os Ficheiros(*)",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": false
+}
