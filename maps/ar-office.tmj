@@ -28,17 +28,6 @@
                  "width":593.333333333333,
                  "x":974,
                  "y":1741.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":30,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":-269.69696969697,
-                 "y":1342.42424242424
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -492,8 +481,7 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        } 
-        ],
+        }],
  "tilewidth":32,
  "type":"map",
  "version":"1.10",
