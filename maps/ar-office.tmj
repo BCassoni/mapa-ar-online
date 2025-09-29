@@ -683,6 +683,19 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":307,
+         "firstgid":2956,
+         "image":"tilesets\/ar_online_balcao_atendimento.png",
+         "imageheight":1024,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"ar_online_balcao_atendimento",
+         "spacing":0,
+         "tilecount":62628,
+         "tileheight":5,
+         "tilewidth":5
         }],
  "tilewidth":32,
  "type":"map",
