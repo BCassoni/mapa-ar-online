@@ -65,7 +65,8 @@
             "scaleInEditor": 1
         },
         "maps/ar-office.tmj#mesas": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "maps/custom_office.tmj": {
             "scale": 1.0697395833333332,
