@@ -1566,6 +1566,68 @@
         }, 
         {
          "draworder":"topdown",
+         "id":117,
+         "name":"Mesas_Usuarios",
+         "objects":[
+                {
+                 "height":54,
+                 "id":64,
+                 "name":"mesa_suporte_01",
+                 "properties":[
+                        {
+                         "name":"usuario_id",
+                         "type":"string",
+                         "value":"thiago souza"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":73,
+                 "x":78,
+                 "y":749
+                }, 
+                {
+                 "height":54,
+                 "id":65,
+                 "name":"mesa_suporte_02",
+                 "properties":[
+                        {
+                         "name":"usuario_id",
+                         "type":"string",
+                         "value":"davidson"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":73,
+                 "x":202.5,
+                 "y":745
+                }, 
+                {
+                 "height":54,
+                 "id":66,
+                 "name":"mesa_marketing_01",
+                 "properties":[
+                        {
+                         "name":"usuario_id",
+                         "type":"string",
+                         "value":"Bruno"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":73,
+                 "x":68.5,
+                 "y":469
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":78,
          "name":"start",
          "objects":[],
@@ -1575,8 +1637,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":117,
- "nextobjectid":64,
+ "nextlayerid":118,
+ "nextobjectid":67,
  "orientation":"orthogonal",
  "properties":[
         {
