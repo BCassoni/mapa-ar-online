@@ -1,8 +1,8 @@
 {
     "activeFile": "maps/ar-office.tmj",
     "expandedProjectPaths": [
-        "maps",
-        "."
+        ".",
+        "maps"
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
@@ -15,16 +15,18 @@
         "maps/ar-office.tmj": {
             "expandedGroupLayers": [
                 70,
-                52,
+                51,
                 69,
+                87,
+                52,
                 54,
-                51
+                88
             ],
-            "scale": 1,
-            "selectedLayer": 10,
+            "scale": 0.5,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 312,
-                "y": 1485
+                "x": 1184,
+                "y": 724
             }
         },
         "maps/ar-office.tmj#WA_Decoration": {
